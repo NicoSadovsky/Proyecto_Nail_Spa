@@ -1,0 +1,27 @@
+header {
+    margin: 20px;
+}
+main {
+    margin: 20px;
+    padding: auto; 
+    position: relative;
+}
+.carousel-inner {
+    width: 100%;
+    height: auto
+}
+p {
+    margin: 25px;
+}
+a {
+    margin: 25px;
+}
+
+body {
+    background-color: rgb(244, 210, 197);
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
+footer{
+    background-color: rgb(243, 187, 165);
+}
